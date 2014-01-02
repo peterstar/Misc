@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cs_desc_1">
+        Educado en el Queens College, Oxford, Sir Tim Berners Lee se mudó al campo de la informática, 
+        casi inmediatamente después de recibir su título de la física y es ampliamente conocido como el 
+        inventor de la World Wide Web. En 1989 Lee implementó la primera comunicación exitosa entre un 
+        cliente HTTP y el servidor a través de lo que se convertiría en HTML. Lee ayudó a inventar y 
+        poner en práctica el idioma de la WWW, y sus continuas contribuciones han sido significativas, 
+        mientras continúa hacer aportaciones importantes en la actualidad en la aún creciente 
+        infraestructura.       	</string>
+	<string name="cs_desc_2">
+	    Este ingeniero finlandés americanos / se graduó de la Universidad de Helsinki, y luego inventó 
+	    un sistema operativo Unix sabor que se convirtió en Linux, uno de los sistemas operativos más 
+	    utilizados en el mundo. Linux no ha visto un gran crecimiento en el mercado de consumo, pero ha 
+	    sido un pilar para los programadores durante décadas. La mayor parte de las pistas de Internet 
+	    en los servidores de Linux, la marca comercial de la que es la estabilidad increíble, y una 
+	    fuerte seguridad. Torvalds continúa su trabajo, patrocinado por la Fundación Linux, y sus 
+	    continuas contribuciones a la plataforma Linux han continuado cambiando la informática para 
+	    todo el mundo, aunque detrás de las escenas.
+	</string>
+</resources>
